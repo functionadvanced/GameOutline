@@ -44,3 +44,15 @@ An outline of a text game.
 * 初始化的钱==0，还没找到工作。(LOSE)
 * 找到了工作，但是工作后解决问题的表现太差,被layoff。(LOSE)
 * 金钱到达一定，买房，买车。女生成为女朋友。成为a successful software development engineer. (WIN)
+
+# 地点与场景
+* 住处
+* 公司
+* 女友家
+* 售楼处
+
+# 可选操作
+* 外出
+* 学习
+* 打电话
+* 打游戏
