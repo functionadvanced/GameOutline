@@ -6,3 +6,21 @@ An outline of a text game.
 １、程序员求职
 ２、程序员征友
 ３、待定
+
+游戏变量：
+1、金钱
+
+
+
+2、技能点
+从programming skills中汲取
+
+
+3、时间check point
+固定向前推进
+
+
+4、情感：
+与异性的交往
+与manager和同事的交互
+
