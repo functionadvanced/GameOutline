@@ -94,6 +94,8 @@ submit resume ／ randomly get interviews ／ interviews passed/failed
 一直没有女友
 ## 渣男一枚
 没有在规定时间内求婚
+## 财不理你
+没有在规定时间内购买理财产品
 
 # 地点与场景
 * 住处
@@ -105,11 +107,11 @@ submit resume ／ randomly get interviews ／ interviews passed/failed
 # 可选操作
 * 外出
 * 学习
-  * 技能+，压力+
+  * 技能+，压力+
 * 打电话
-  * 感情+
+  * 感情+
 * 约会
-  * 金钱--，感情++
+  * 金钱--，感情++
 * 打游戏
 
 # 物品（装备）
